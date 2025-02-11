@@ -18,3 +18,5 @@ Pear note is a easy to use note taking application, inspired by Notes from Apple
 
 ## Technologies
 [React](https://reactjs.org/) | [Express.js](https://expressjs.com/) | [PostgreSQL](https://www.postgresql.org/)
+
+## test schmee was here
